@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\DevIO.UI.Site.csproj",
+  "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\DevIO.UI.Site.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -1844,48 +1844,48 @@
   "RootNamespace": "DevIO.UI.Site",
   "Documents": [
     {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Vendas\\Views\\Pedidos\\Index.cshtml",
-      "TargetPath": "Modulos\\Vendas\\Views\\Pedidos\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
-      "TargetPath": "Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Produtos\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Modulos\\Produtos\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Vendas\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Modulos\\Vendas\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Produtos\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Modulos\\Produtos\\Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Workspace\\Rioner\\Cusrsos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Produtos\\Views\\Cadastro\\Busca.cshtml",
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Vendas\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Modulos\\Vendas\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+      "TargetPath": "Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Produtos\\Views\\Cadastro\\Busca.cshtml",
       "TargetPath": "Modulos\\Produtos\\Views\\Cadastro\\Busca.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Workspace\\Cursos\\AppModelo\\src\\DevIO.UI.Site\\Modulos\\Vendas\\Views\\Pedidos\\Index.cshtml",
+      "TargetPath": "Modulos\\Vendas\\Views\\Pedidos\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
