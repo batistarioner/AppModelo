@@ -1,3 +1,0 @@
-# AppModeloMVC
-# AppModeloMVC
-# AppModelo
